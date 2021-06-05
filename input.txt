@@ -1,0 +1,9 @@
+Name:Johnis 
+Age:25 
+Gender:Male 
+Birth Place:Hyderabad 
+Crimes:Murder,Rape,Bank Robbery 
+Current Location:Nalgonda station 
+Info:He will be shifted from Nalgonda station to Nallamala jail 
+Punishment:Hanging 
+Date of Hanging:1st Dec,2021
